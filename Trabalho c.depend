@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1656528031 source:d:\users\1349437\desktop\trabalho c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1657052988 source:d:\users\1349437\desktop\locamais-atualizado-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1657072310 source:c:\users\aosli\onedrive\Área de trabalho\locamais-muitoatualizado-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
